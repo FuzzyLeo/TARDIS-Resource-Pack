@@ -6,3 +6,4 @@ This is a fork of the official texture pack for this plugin, i was never a fan o
 
 This is very early and im only gonna update it when i have time and motivation, so if something doesn't have an updated texture or model thats why.
 
+Some designs may be inspired by existing minecraft mods or addons, however no models or textures will be used unless permission is provided
