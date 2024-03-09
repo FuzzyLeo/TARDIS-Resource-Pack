@@ -2,8 +2,8 @@
 
 Resource pack for the TARDIS v4.2 (and higher) plugin, as well as TARDISWeepingAngels and the Vortex Manipulator
 
-This is a fork of the official texture pack for this plugin, i was never a fan of the super stylised textures included as they really don't fit minecraft whatsoever imo, so i thought i'd make one thats more vanilla themed, slowly changing things where i can to make them closer to vanilla
+This is a fork of the official texture pack for this plugin, i was never a fan of the super stylised textures as they just aren't really built for the vanilla art style, so i thought i'd make one that fits more for those like myself who use default textures.
 
-This is very early and im only gonna update it when i have time and motivation, so if something doesn't have an updated texture or model thats why.
+This is very early and there will likely be droughts in updates, but i plan to keep updating this over time for the forseeable future.
 
-Some designs may be inspired by existing minecraft mods or addons, however no models or textures will be used unless permission is provided
+Some designs may be heavily inspired by existing minecraft mods or addons, however all assets, not including ones i've yet to replace, are either my own or used with permission (as of writing all assets added have been created by me)
