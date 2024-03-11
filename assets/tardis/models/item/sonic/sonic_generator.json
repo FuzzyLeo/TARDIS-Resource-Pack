@@ -8,8 +8,8 @@
 	},
 	"elements": [
 		{
-			"from": [5, 0, 5],
-			"to": [11, 6, 11],
+			"from": [4.8, 0, 4.8],
+			"to": [11.2, 6.4, 11.2],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"north": {"uv": [5, 10, 11, 16], "texture": "#flowerpot"},
