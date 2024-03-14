@@ -1,0 +1,68 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/cube_all",
+	"textures": {
+		"0": "tardis:block/tardis/roundel",
+		"1": "tardis:block/tardis/roundel_top_bottom",
+		"particle": "tardis:block/tardis/roundel"
+	},
+	"elements": [
+		{
+			"from": [9, 0, -13],
+			"to": [16, 16, 3],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [16, -16, 3]},
+			"faces": {
+				"north": {"uv": [0, 0, 7, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 7, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 7], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 7], "rotation": 270, "texture": "#1"}
+			}
+		},
+		{
+			"from": [15.9, 0, 0],
+			"to": [15.9, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, -16, 3]},
+			"faces": {
+				"west": {"uv": [0, 0, 8, 16], "texture": "#1"}
+			}
+		},
+		{
+			"from": [-15.9, 0, 0],
+			"to": [-15.9, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, -16, 3]},
+			"faces": {
+				"east": {"uv": [0, 0, 8, 16], "texture": "#1"}
+			}
+		},
+		{
+			"from": [-16, 0, -13],
+			"to": [-9, 16, 3],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [-16, -16, 3]},
+			"faces": {
+				"north": {"uv": [0, 0, 8, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 8, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 7], "rotation": 270, "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 7], "rotation": 90, "texture": "#1"}
+			}
+		}
+	],
+	"display": {},
+	"groups": [
+		{
+			"name": "door1",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1, 2]
+		},
+		{
+			"name": "door2",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [3]
+		}
+	]
+}
