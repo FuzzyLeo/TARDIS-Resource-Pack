@@ -173,24 +173,24 @@
 			"scale": [0.15, 0.15, 0.15]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, 90, 25],
-			"translation": [0, 1.6, 0.8],
-			"scale": [0.15, 0.15, 0.15]
+			"rotation": [-3, -70, 0],
+			"translation": [0, 2.25, 0],
+			"scale": [0.25, 0.25, 0.25]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, 90, 25],
-			"translation": [0, 1.6, 0.8],
-			"scale": [0.15, 0.15, 0.15]
+			"rotation": [-3, -70, 0],
+			"translation": [0, 2.25, 0],
+			"scale": [0.25, 0.25, 0.25]
 		},
 		"ground": {
 			"scale": [0.15, 0.15, 0.15]
 		},
 		"gui": {
 			"rotation": [25, 30, 0],
-			"scale": [0.28, 0.28, 0.28]
+			"scale": [0.3, 0.3, 0.3]
 		},
 		"head": {
-			"scale": [0.15, 0.15, 0.15]
+			"translation": [0, 15.25, 0]
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
