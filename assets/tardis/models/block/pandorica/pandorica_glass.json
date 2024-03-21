@@ -1,21 +1,21 @@
 {
 	"credit": "Made with Blockbench",
+	"texture_size": [48, 48],
 	"textures": {
-		"0": "tardis:block/police_box/tardis_transparent",
-		"particle": "tardis:block/police_box/tardis_transparent"
+		"1": "tardis:block/pandorica/pandoricaglass"
 	},
 	"elements": [
 		{
-			"from": [-16, 0, -16],
-			"to": [16, 32, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0.25, 8, 0.5]},
+			"from": [-4, -8, -4],
+			"to": [20, 16, 20],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4.125, 4, 4.25]},
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
 			}
 		}
 	],
@@ -44,12 +44,12 @@
 		},
 		"gui": {
 			"rotation": [30, 225, 0],
-			"translation": [-3.5, -2.25, 0],
-			"scale": [0.3, 0.3, 0.3]
+			"translation": [0, 1.5, 0],
+			"scale": [0.4, 0.4, 0.4]
 		},
 		"head": {
-			"translation": [14, -29.25, 14.25],
-			"scale": [1.75, 1.75, 1.75]
+			"translation": [0, 8.5, 0],
+			"scale": [3.2, 3.2, 3.2]
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
