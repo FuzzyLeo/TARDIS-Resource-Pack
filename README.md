@@ -10,4 +10,6 @@ This is very early and there will likely be droughts in updates, but i plan to k
 WARNING: this pack will be kept up to date with the latest version of the plugin, if the server you're playing on isn't up to date i recommend waiting until it catches up before redownloading as things may break on older versions
 
 
-Some designs may be heavily inspired by existing minecraft mods or addons, however all assets, not including ones i've yet to replace, are either my own or used with permission (as of writing all assets added have been created by me)
+Some designs may be heavily inspired by existing minecraft mods or addons, however all assets, not including ones i've yet to replace, are either my own or used with permission.
+
+Sonic Screwdriver Designs heavily based on those made by audrey
