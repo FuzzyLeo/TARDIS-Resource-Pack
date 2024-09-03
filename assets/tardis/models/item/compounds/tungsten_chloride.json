@@ -1,9 +1,6 @@
 {
-	"parent": "tardis:item/compounds/jar",
+	"parent": "minecraft:item/generated",
 	"textures": {
-		"0": "tardis:item/glow_sticks/light_gray_plastic",
-		"1": "tardis:item/chemistry/powder_blue",
-		"2": "tardis:item/disk/blacker_plastic",
-		"particle": "tardis:item/glow_sticks/light_gray_plastic"
+		"layer0": "tardis:item/chemistry/blue_jar"
 	}
 }
