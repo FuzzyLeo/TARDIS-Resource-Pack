@@ -115,6 +115,7 @@
 			"name": "Cube",
 			"from": [7.375, 25.5, 7.375],
 			"to": [8.625, 27.75, 8.625],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [0.125, 5.5, 0.125]},
 			"faces": {
 				"north": {"uv": [3.5, 0, 4, 1], "texture": "#0"},

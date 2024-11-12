@@ -33,13 +33,27 @@
 		},
 		{
 			"from": [7.5, 6.5, 7.5],
-			"to": [8.5, 8.5, 8.5],
+			"to": [8.5, 7.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [6.4, 16.5, 7.4]},
 			"faces": {
-				"north": {"uv": [2, 2, 3, 4], "texture": "#0"},
-				"east": {"uv": [2, 2, 3, 4], "texture": "#0"},
-				"south": {"uv": [2, 2, 3, 4], "texture": "#0"},
-				"west": {"uv": [2, 2, 3, 4], "texture": "#0"},
+				"north": {"uv": [2, 3, 3, 4], "texture": "#0"},
+				"east": {"uv": [2, 3, 3, 4], "texture": "#0"},
+				"south": {"uv": [2, 3, 3, 4], "texture": "#0"},
+				"west": {"uv": [2, 3, 3, 4], "texture": "#0"},
+				"up": {"uv": [2, 2, 3, 3], "texture": "#0"},
+				"down": {"uv": [2, 2, 3, 3], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.5, 7.5, 7.5],
+			"to": [8.5, 8.5, 8.5],
+			"light_emission": 15,
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.4, 17.5, 7.4]},
+			"faces": {
+				"north": {"uv": [2, 2, 3, 3], "texture": "#0"},
+				"east": {"uv": [2, 2, 3, 3], "texture": "#0"},
+				"south": {"uv": [2, 2, 3, 3], "texture": "#0"},
+				"west": {"uv": [2, 2, 3, 3], "texture": "#0"},
 				"up": {"uv": [2, 2, 3, 3], "texture": "#0"},
 				"down": {"uv": [2, 2, 3, 3], "texture": "#0"}
 			}
@@ -88,7 +102,7 @@
 			"name": "switch",
 			"origin": [7, 10, 7],
 			"color": 0,
-			"children": [0, 1, 2]
+			"children": [0, 1, 2, 3]
 		}
 	]
 }

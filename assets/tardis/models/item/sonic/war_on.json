@@ -58,6 +58,7 @@
 		{
 			"from": [7.5, 18.5, 7.5],
 			"to": [8.5, 19.5, 8.5],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [6.4, 18.5, 6.4]},
 			"faces": {
 				"north": {"uv": [5, 0, 5.5, 0.5], "texture": "#0"},

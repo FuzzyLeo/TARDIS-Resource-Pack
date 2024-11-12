@@ -44,6 +44,7 @@
 			"name": "Cube",
 			"from": [6.7, 30, 6.7],
 			"to": [9.3, 31, 9.3],
+			"light_emission": 15,
 			"faces": {
 				"north": {"uv": [8.5, 0, 7.5, 0.5], "texture": "#0"},
 				"east": {"uv": [8.5, 0.5, 7.5, 1], "texture": "#0"},
