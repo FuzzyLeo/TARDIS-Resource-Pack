@@ -14,7 +14,7 @@ jobs:
         git pull
         rm -f release.zip
     - name: Archive Release
-      uses: FuzzyLeo/zip-release@master
+      uses: FuzzyLeo/TARDIS-Resource-Pack@master
       with:
         filename: 'release.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
