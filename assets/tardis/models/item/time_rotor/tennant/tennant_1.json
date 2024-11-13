@@ -8,6 +8,7 @@
 		{
 			"from": [1, -6, 1],
 			"to": [15, -4, 15],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2.1, 8]},
 			"faces": {
 				"north": {"uv": [8.5, 1.75, 10.25, 2], "texture": "#3"},
@@ -21,6 +22,7 @@
 		{
 			"from": [1, -11, 1],
 			"to": [15, -9, 15],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, -2.9, 8]},
 			"faces": {
 				"north": {"uv": [8.5, 1.75, 10.25, 2], "texture": "#3"},
@@ -34,6 +36,7 @@
 		{
 			"from": [11, -9, 5],
 			"to": [13, 13, 7],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [13.5, 0.1, 9.75]},
 			"faces": {
 				"north": {"uv": [0.25, 7.5, 0.5, 10.25], "texture": "#3"},
@@ -46,6 +49,7 @@
 		{
 			"from": [6.8, -9, 2.3],
 			"to": [9.2, 13, 4.7],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [9.5, 0.1, 7.25]},
 			"faces": {
 				"north": {"uv": [0.25, 7.5, 0.5, 10.25], "texture": "#3"},
@@ -58,6 +62,7 @@
 		{
 			"from": [7, -9, 11.5],
 			"to": [9, 13, 13.5],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [9.5, 0.1, 16.25]},
 			"faces": {
 				"north": {"uv": [0.25, 7.5, 0.5, 10.25], "texture": "#3"},
@@ -70,6 +75,7 @@
 		{
 			"from": [10.8, -9, 8.8],
 			"to": [13.2, 13, 11.2],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [13.5, 0.1, 13.75]},
 			"faces": {
 				"north": {"uv": [0.25, 7.5, 0.5, 10.25], "texture": "#3"},
@@ -82,6 +88,7 @@
 		{
 			"from": [2.8, -9, 8.8],
 			"to": [5.2, 13, 11.2],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [5.5, 0.1, 13.75]},
 			"faces": {
 				"north": {"uv": [0.25, 7.5, 0.5, 10.25], "texture": "#3"},
@@ -94,6 +101,7 @@
 		{
 			"from": [3, -9, 5],
 			"to": [5, 13, 7],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [5.5, 0.1, 9.75]},
 			"faces": {
 				"north": {"uv": [0.25, 7.5, 0.5, 10.25], "texture": "#3"},
@@ -106,6 +114,7 @@
 		{
 			"from": [1, 22, 1],
 			"to": [15, 24, 15],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 30.1, 8]},
 			"faces": {
 				"north": {"uv": [8.5, 1.75, 10.25, 2], "texture": "#3"},
@@ -119,6 +128,7 @@
 		{
 			"from": [1, 27.1, 1],
 			"to": [15, 29.1, 15],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 35.2, 8]},
 			"faces": {
 				"north": {"uv": [8.5, 1.75, 10.25, 2], "texture": "#3"},
@@ -132,6 +142,7 @@
 		{
 			"from": [11, 5.2, 9],
 			"to": [13, 27.2, 11],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "x", "origin": [12, 18, 10]},
 			"faces": {
 				"north": {"uv": [0.25, 7.5, 0.5, 10.25], "rotation": 180, "texture": "#3"},
@@ -144,6 +155,7 @@
 		{
 			"from": [7, 5.2, 2.5],
 			"to": [9, 27.2, 4.5],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 18, 3.5]},
 			"faces": {
 				"north": {"uv": [0.25, 7.5, 0.5, 10.25], "rotation": 180, "texture": "#3"},
@@ -156,6 +168,7 @@
 		{
 			"from": [6.8, 5.2, 11.3],
 			"to": [9.2, 27.2, 13.7],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "x", "origin": [9.5, 18.1, 8.75]},
 			"faces": {
 				"north": {"uv": [0.25, 7.5, 0.5, 10.25], "rotation": 180, "texture": "#3"},
@@ -168,6 +181,7 @@
 		{
 			"from": [10.8, 5.2, 4.8],
 			"to": [13.2, 27.2, 7.2],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "x", "origin": [13.5, 18.1, 2.25]},
 			"faces": {
 				"north": {"uv": [0.25, 7.5, 0.5, 10.25], "rotation": 180, "texture": "#3"},
@@ -180,6 +194,7 @@
 		{
 			"from": [2.8, 5.2, 4.8],
 			"to": [5.2, 27.2, 7.2],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "x", "origin": [5.5, 18.1, 2.25]},
 			"faces": {
 				"north": {"uv": [0.25, 7.5, 0.5, 10.25], "rotation": 180, "texture": "#3"},
@@ -192,6 +207,7 @@
 		{
 			"from": [2.95, 5.2, 8.95],
 			"to": [4.95, 27.2, 10.95],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "x", "origin": [7.7, 18.1, 11.45]},
 			"faces": {
 				"north": {"uv": [0.25, 7.5, 0.5, 10.25], "rotation": 180, "texture": "#3"},
