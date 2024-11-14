@@ -58,6 +58,7 @@
 		{
 			"from": [0, 5, 8],
 			"to": [16, 20, 8],
+			"light_emission": 15,
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, 5, 8]},
 			"faces": {
 				"north": {"uv": [4, 4, 8, 7.75], "texture": "#6"},
@@ -71,6 +72,7 @@
 		{
 			"from": [0, 5, 8],
 			"to": [16, 20, 8],
+			"light_emission": 15,
 			"rotation": {"angle": -45, "axis": "y", "origin": [8, 5, 8]},
 			"faces": {
 				"north": {"uv": [4, 4, 8, 7.75], "texture": "#6"},
