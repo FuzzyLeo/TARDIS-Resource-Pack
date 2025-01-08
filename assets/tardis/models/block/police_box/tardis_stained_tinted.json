@@ -1,8 +1,0 @@
-{
-	"parent": "tardis:block/police_box/tardis_tinted",
-	"textures": {
-		"0": "tardis:block/police_box/tardis_tintedfade",
-		"1": "tardis:block/police_box/tardis_untintedfade",
-		"particle": "tardis:block/police_box/tardis_tintedfade"
-	}
-}
