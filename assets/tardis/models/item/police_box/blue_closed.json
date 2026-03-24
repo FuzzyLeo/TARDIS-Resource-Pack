@@ -1,7 +1,8 @@
 {
 	"parent": "tardis:item/police_box/tardis_solid",
 	"textures": {
-		"0": "tardis:block/police_box/tardis_blue",
-		"particle": "tardis:block/police_box/tardis_blue"
+		"0": "tardis:item/police_box/tardis_blue",
+		"1": "tardis:item/police_box/tardis_blue_windows",
+		"particle": "tardis:item/police_box/tardis_blue"
 	}
 }

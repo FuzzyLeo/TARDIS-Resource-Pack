@@ -3,8 +3,6 @@
 	"textures": {
 		"0": "tardis:item/police_box/tardis_blue",
 		"1": "tardis:item/police_box/tardis_blue_windows",
-		"3": "tardis:item/police_box/tardis_blue_police_box",
-		"4": "tardis:item/tardis/interior",
 		"particle": "tardis:item/police_box/tardis_blue"
 	}
 }
