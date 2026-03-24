@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "tardis:block/weeping_angel/weepingangel-fade"
+		"0": "tardis:block/police_box/tardis_transparent",
+		"particle": "tardis:block/police_box/tardis_transparent"
 	},
 	"elements": [
 		{

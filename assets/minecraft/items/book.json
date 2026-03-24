@@ -1,0 +1,85 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/book"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "TARDIS Information System"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/info"
+                }
+            },
+            {
+                "when": {
+                    "text": "Info"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/info"
+                }
+            },
+            {
+                "when": {
+                    "text": "Instructions (1/3)"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/info"
+                }
+            },
+            {
+                "when": {
+                    "text": "Instructions (2/3)"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/info"
+                }
+            },
+            {
+                "when": {
+                    "text": "Instructions (3/3)"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/info"
+                }
+            },
+            {
+                "when": {
+                    "text": "Name"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/info"
+                }
+            },
+            {
+                "when": {
+                    "text": "Instructions"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/info"
+                }
+            },
+            {
+                "when": {
+                    "text": "Vashta Nerada"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/genetic/vashta_nerada"
+                }
+            }
+        ]
+    }
+}

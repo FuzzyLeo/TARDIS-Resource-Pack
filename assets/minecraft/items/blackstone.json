@@ -1,0 +1,31 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/blackstone"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Nether"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/room/nether"
+                }
+            },
+            {
+                "when": {
+                    "text": "Black Liberty"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/equipment/black_liberty"
+                }
+            }
+        ]
+    }
+}

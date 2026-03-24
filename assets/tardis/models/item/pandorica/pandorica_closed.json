@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [48, 48],
 	"textures": {
-		"0": "tardis:block/pandorica/pandorica",
-		"particle": "tardis:block/pandorica/pandorica"
+		"0": "tardis:item/pandorica/pandorica",
+		"particle": "tardis:item/pandorica/pandorica"
 	},
 	"elements": [
 		{
@@ -53,9 +53,9 @@
 			"scale": [3.2, 3.2, 3.2]
 		},
 		"fixed": {
-			"rotation": [-90, 0, 0],
-			"translation": [24, 24, -23],
-			"scale": [3, 3, 3]
+			"rotation": [15, 0, 0],
+			"translation": [0, 0, 3],
+			"scale": [0.66, 0.66, 0.66]
 		}
 	}
 }

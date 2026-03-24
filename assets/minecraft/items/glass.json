@@ -1,0 +1,138 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/glass"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Empty"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/room/empty"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Console Lamp",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/controls/console_lamp"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Monitor Frame",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/tardis/monitor_frame_left"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "TARDIS Space Helmet",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/space_suit/helmet"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Variable Light",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/variable"
+                }
+            },
+            {
+                "when": {
+                    "text": "Variable"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/variable"
+                }
+            },
+            {
+                "when": {
+                    "text": "Variable Blue"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/blue"
+                }
+            },
+            {
+                "when": {
+                    "text": "Variable Green"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/green"
+                }
+            },
+            {
+                "when": {
+                    "text": "Variable Orange"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/orange"
+                }
+            },
+            {
+                "when": {
+                    "text": "Variable Pink"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/pink"
+                }
+            },
+            {
+                "when": {
+                    "text": "Variable Purple"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/purple"
+                }
+            },
+            {
+                "when": {
+                    "text": "Variable Red"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/cloister"
+                }
+            },
+            {
+                "when": {
+                    "text": "Variable Yellow"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/yellow"
+                }
+            }
+        ]
+    }
+}

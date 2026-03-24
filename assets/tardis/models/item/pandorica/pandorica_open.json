@@ -117,9 +117,9 @@
 			"scale": [3.2, 3.2, 3.2]
 		},
 		"fixed": {
-			"rotation": [-90, 0, 0],
-			"translation": [21, 21, -23],
-			"scale": [3, 3, 3]
+			"rotation": [15, 0, 0],
+			"translation": [0, 0, 3],
+			"scale": [0.66, 0.66, 0.66]
 		}
 	},
 	"groups": [

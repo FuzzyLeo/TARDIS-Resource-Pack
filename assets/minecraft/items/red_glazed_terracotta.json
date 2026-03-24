@@ -1,0 +1,71 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/red_glazed_terracotta"
+        },
+        "cases": [
+            {
+                "when": {
+                    "color": "gold",
+                    "text": "TARDIS Seed Block",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/legacy_redstone"
+                }
+            },
+            {
+                "when": {
+                    "color": "gold",
+                    "text": "Legacy Redstone",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/legacy_redstone"
+                }
+            },
+            {
+                "when": {
+                    "text": "Legacy Redstone Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/legacy_redstone"
+                }
+            },
+            {
+                "when": {
+                    "text": "Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/legacy_redstone"
+                }
+            },
+            {
+                "when": {
+                    "text": "TARDIS"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/arrow/less"
+                }
+            },
+            {
+                "when": {
+                    "text": "Cross"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/game/cross"
+                }
+            }
+        ]
+    }
+}

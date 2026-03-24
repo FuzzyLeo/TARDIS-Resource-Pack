@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+=======
+{
+	"parent": "tardis:item/police_box/tardis_stained",
+	"textures": {
+		"0": "tardis:item/police_box/tardis_transparent_tennant",
+		"particle": "tardis:item/police_box/tardis_transparent_tennant"
+	}
+}
+>>>>>>> upstream/master
