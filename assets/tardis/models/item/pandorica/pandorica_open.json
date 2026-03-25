@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [48, 48],
 	"textures": {
-		"3": "tardis:block/pandorica/pandorica_plainvoids",
-		"4": "tardis:block/pandorica/pandorica_open",
-		"particle": "tardis:block/pandorica/pandorica_plainvoids"
+		"3": "tardis:item/pandorica/pandorica_plainvoids",
+		"4": "tardis:item/pandorica/pandorica_open",
+		"particle": "tardis:item/pandorica/pandorica_plainvoids"
 	},
 	"elements": [
 		{

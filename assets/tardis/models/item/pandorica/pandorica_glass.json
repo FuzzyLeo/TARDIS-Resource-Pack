@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [48, 48],
 	"textures": {
-		"1": "tardis:block/pandorica/pandoricaglass"
+		"1": "tardis:item/pandorica/pandoricaglass",
+		"particle": "tardis:item/pandorica/pandoricaglass"
 	},
 	"elements": [
 		{

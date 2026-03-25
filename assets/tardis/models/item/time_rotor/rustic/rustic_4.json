@@ -1,6 +1,7 @@
 {
 	"parent": "tardis:item/time_rotor/tennant/tennant_4",
 	"textures": {
-		"3": "tardis:item/time_rotor/rusticnew"
+		"3": "tardis:item/time_rotor/rusticnew",
+		"particle": "tardis:item/time_rotor/rusticnew"
 	}
 }

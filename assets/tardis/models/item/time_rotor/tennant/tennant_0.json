@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"3": "tardis:item/time_rotor/tennant"
+		"3": "tardis:item/time_rotor/tennant",
+		"particle": "tardis:item/time_rotor/tennant"
 	},
 	"elements": [
 		{

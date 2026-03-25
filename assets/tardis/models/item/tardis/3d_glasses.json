@@ -2,7 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "tardis:item/3d_glasses"
+		"1": "tardis:item/3d_glasses",
+		"particle": "tardis:item/3d_glasses"
 	},
 	"elements": [
 		{

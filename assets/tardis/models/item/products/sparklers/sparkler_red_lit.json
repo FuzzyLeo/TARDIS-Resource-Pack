@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "tardis:item/chemistry/sparkler_red_lit"
+		"layer0": "tardis:item/sparklers/sparkler_red_lit"
 	}
 }
